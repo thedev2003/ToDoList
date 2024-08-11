@@ -5,3 +5,4 @@ CSS and JavaScript
 
 The webpage is minimalistic and adds
 and deletes entries through event listeners
+Link to deployed preoject: 
