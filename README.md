@@ -4,5 +4,5 @@ CSS and JavaScript
 
 
 The webpage is minimalistic and adds
-and deletes entries through event listeners
-Link to deployed preoject: 
+and deletes entries through event listeners <br>
+Link to deployed preoject: https://thedev2003.github.io/ToDoList/
